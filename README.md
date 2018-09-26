@@ -1,1 +1,1 @@
-# management-reports
+# management-course-notes
